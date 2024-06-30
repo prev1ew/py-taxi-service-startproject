@@ -85,4 +85,8 @@ local_settings.py
 
 .env
 db.sqlite3
+
+# task related
 idea
+pycache
+venv
